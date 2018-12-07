@@ -1,3 +1,5 @@
 function Dog() {
-    
+    function eat() {
+        
+    }
 }
