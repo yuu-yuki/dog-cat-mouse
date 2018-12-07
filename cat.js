@@ -1,3 +1,5 @@
 function Cat() {
-    
+    function eat() {
+        
+    }
 }
