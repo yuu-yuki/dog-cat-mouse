@@ -3,9 +3,9 @@ function Dog(name) {
     this.stomach = [];
 }
 
-Dog.prototype.eat = function(cat) {
-    this.stomach.push(cat);
-    cat.isDeath = true;
+Dog.prototype.eat = function(litteAnimal) {
+    this.stomach.push(litteAnimal);
+    litteAnimal.isDeath = true;
 }
 
 module.exports = Dog;
