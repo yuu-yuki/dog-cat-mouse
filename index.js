@@ -12,4 +12,5 @@ console.log(tom);
 console.log(jerry);
 bull.eat(tom)
 console.log(bull);
+console.log('demo pull code');
 
